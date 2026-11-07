@@ -1,0 +1,11 @@
+D:\C#\week5\Exam\Domain\bin\Debug\net10.0\Domain.deps.json
+D:\C#\week5\Exam\Domain\bin\Debug\net10.0\Domain.dll
+D:\C#\week5\Exam\Domain\bin\Debug\net10.0\Domain.pdb
+D:\C#\week5\Exam\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\week5\Exam\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+D:\C#\week5\Exam\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+D:\C#\week5\Exam\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+D:\C#\week5\Exam\Domain\obj\Debug\net10.0\Domain.dll
+D:\C#\week5\Exam\Domain\obj\Debug\net10.0\refint\Domain.dll
+D:\C#\week5\Exam\Domain\obj\Debug\net10.0\Domain.pdb
+D:\C#\week5\Exam\Domain\obj\Debug\net10.0\ref\Domain.dll
